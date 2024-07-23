@@ -1,6 +1,6 @@
 # Japan-GIS-Data
 
-Publically available resources
+Publicly available resources
 
 ## Datasets
 ### Slope
