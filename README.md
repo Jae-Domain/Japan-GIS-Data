@@ -37,6 +37,6 @@ Publically available resources
 
 ### Japan PV Site Locations
 #### Electric Japan
-  http://agora.ex.nii.ac.jp/earthquake/201103-eastjapan/energy/electrical-japan/share/camila.csv
+  [http://agora.ex.nii.ac.jp/](http://agora.ex.nii.ac.jp/earthquake/201103-eastjapan/energy/electrical-japan/policy.html.ja)
 
 
