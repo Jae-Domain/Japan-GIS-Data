@@ -1,0 +1,9 @@
+Download dataset:
+
+https://www.eorc.jaxa.jp/ALOS/en/dataset/lulc_e.htm#download
+
+It is necessary to register as a user in order to access: 
+
+https://www.eorc.jaxa.jp/ALOS/en/lulc/data/index.htm#japan_v23.12
+
+For our purposes, we recommend the 250m resolution
