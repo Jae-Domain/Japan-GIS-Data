@@ -1,5 +1,13 @@
 # Japan-GIS-Data
 
+## Files
+### landcover_data
+  - convert_tif.sh - bash file for converting rasterized data to shapefile data using gdal_polygonize.py (Requires GDAL installation)
+### elevation_slope_aspect_data
+  - download.sh - bash file for downloading Elevation and Slope 5th Order Mesh Dataset
+  - unzip.sh - bash file for unzipping downloaded files
+
+
 Publicly available resources
 
 ## Datasets
